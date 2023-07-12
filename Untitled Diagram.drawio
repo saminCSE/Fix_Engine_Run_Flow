@@ -1,26 +1,26 @@
-<mxfile host="app.diagrams.net" modified="2023-07-12T10:34:25.285Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="QZmKei3d68aC-JjyJwiV" version="21.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-12T10:48:08.981Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="IOvg1NektTFDzt5a9q1d" version="21.6.2" type="github">
   <diagram name="Page-1" id="WjsOByWbptH1UTmTBSRd">
-    <mxGraphModel dx="1760" dy="904" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1035" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="t6nOFOiq1bmdriytFh3z-8" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#000000;strokeColor=#ffffff;verticalAlign=top;align=center;points=[[0,0.5,0],[0.125,0.25,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[0.875,0.25,0],[1,0.5,0],[0.875,0.75,0],[0.75,1,0],[0.5,1,0],[0.125,0.75,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=mxgraph.cisco_safe.design.blank_device;resIcon=mxgraph.cisco_safe.design.server_4;" vertex="1" parent="1">
+        <mxCell id="t6nOFOiq1bmdriytFh3z-8" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#000000;strokeColor=#ffffff;verticalAlign=top;align=center;points=[[0,0.5,0],[0.125,0.25,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[0.875,0.25,0],[1,0.5,0],[0.875,0.75,0],[0.75,1,0],[0.5,1,0],[0.125,0.75,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=mxgraph.cisco_safe.design.blank_device;resIcon=mxgraph.cisco_safe.design.server_4;" parent="1" vertex="1">
           <mxGeometry x="20" y="210" width="430" height="408" as="geometry" />
         </mxCell>
-        <mxCell id="t6nOFOiq1bmdriytFh3z-10" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;fontSize=12;verticalAlign=top;fontColor=#000000;shadow=0;dashed=0;image=img/lib/cumulus/netq_server.svg;" vertex="1" parent="1">
+        <mxCell id="t6nOFOiq1bmdriytFh3z-10" value="Core Systems" style="image;aspect=fixed;perimeter=ellipsePerimeter;align=center;fontSize=15;verticalAlign=middle;fontColor=#000000;shadow=0;dashed=0;image=img/lib/cumulus/netq_server.svg;strokeColor=#000000;fontFamily=Times New Roman;fontStyle=1;horizontal=1;labelPosition=center;verticalLabelPosition=middle;labelBorderColor=none;labelBackgroundColor=none;html=1;" parent="1" vertex="1">
           <mxGeometry x="340" y="250" width="192" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="t6nOFOiq1bmdriytFh3z-11" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;fontSize=12;verticalAlign=top;fontColor=#000000;shadow=0;dashed=0;image=img/lib/cumulus/netq_server.svg;" vertex="1" parent="1">
-          <mxGeometry x="340" y="440" width="192" height="40" as="geometry" />
+        <mxCell id="t6nOFOiq1bmdriytFh3z-15" value="devices" style="sketch=0;outlineConnect=0;gradientColor=none;fontColor=#545B64;strokeColor=none;fillColor=#000000;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.illustration_devices;pointerEvents=1" parent="1" vertex="1">
+          <mxGeometry x="1000" y="670" width="123.29" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="t6nOFOiq1bmdriytFh3z-12" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;fontSize=12;verticalAlign=top;fontColor=#000000;shadow=0;dashed=0;image=img/lib/cumulus/netq_server.svg;" vertex="1" parent="1">
+        <mxCell id="_XEu1aaeLK_W9UIwpHIt-4" value="Client GUI" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;fontSize=15;verticalAlign=middle;fontColor=#000000;shadow=0;dashed=0;image=img/lib/cumulus/netq_server.svg;strokeColor=#000000;fontFamily=Times New Roman;fontStyle=1;horizontal=1;labelPosition=center;verticalLabelPosition=middle;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="340" y="550" width="192" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_XEu1aaeLK_W9UIwpHIt-5" value="System API" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;fontSize=15;verticalAlign=middle;fontColor=#000000;shadow=0;dashed=0;image=img/lib/cumulus/netq_server.svg;strokeColor=#000000;fontFamily=Times New Roman;fontStyle=1;horizontal=1;labelPosition=center;verticalLabelPosition=middle;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="340" y="350" width="192" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="t6nOFOiq1bmdriytFh3z-13" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;fontSize=12;verticalAlign=top;fontColor=#000000;shadow=0;dashed=0;image=img/lib/cumulus/netq_server.svg;" vertex="1" parent="1">
-          <mxGeometry x="340" y="540" width="192" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="t6nOFOiq1bmdriytFh3z-15" value="devices" style="sketch=0;outlineConnect=0;gradientColor=none;fontColor=#545B64;strokeColor=none;fillColor=#000000;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.illustration_devices;pointerEvents=1" vertex="1" parent="1">
-          <mxGeometry x="1000" y="670" width="123.29" height="90" as="geometry" />
+        <mxCell id="_XEu1aaeLK_W9UIwpHIt-6" value="Broker GUI" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;fontSize=15;verticalAlign=middle;fontColor=#000000;shadow=0;dashed=0;image=img/lib/cumulus/netq_server.svg;strokeColor=#000000;fontFamily=Times New Roman;fontStyle=1;horizontal=1;labelPosition=center;verticalLabelPosition=middle;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="340" y="450" width="192" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
